@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  product: one
+  score: 9.99
+  reason: MyText
+  selfie_url: MyString
+  analysis_json: 
+  preview_url: MyString
+
+two:
+  user: two
+  product: two
+  score: 9.99
+  reason: MyText
+  selfie_url: MyString
+  analysis_json: 
+  preview_url: MyString
